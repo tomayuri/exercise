@@ -1,2 +1,4 @@
-# exercise
-練習
+# Exercise Repository!
+
+My Exercise to Coding something
+
